@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomarotco&show_icons=true&theme=radical)
+![dev](https://raw.githubusercontent.com/sergiomarotco/sergiomarotco/main/dev.jpg)
