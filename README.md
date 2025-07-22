@@ -32,12 +32,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomarotco&layout=compact&theme=tokyonight)
 
 ## 🌱 Чем могу быть полезен
-- Консультации по **сетевой безопасности** и **Zero Trust**
+- Консультации по **безопасной разработке** и **автоматизации аудита/управления ИБ**
 - Ревью и разработка security-инструментов
 - Совместные open-source проекты
 
 ## 📫 Как связаться
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
 ✉ sergiomarotco в любой соцсети.
 
 ---
