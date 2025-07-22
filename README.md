@@ -23,9 +23,9 @@
 *(См. все проекты в [репозиториях](https://github.com/sergiomarotco?tab=repositories))*
 
 ## 🛠 Технологии и инструменты
-**Security**: IDS/IPS, SIEM, Zero Trust, Threat Modeling  
+**Security**: Разаботка внутрикорпоративных SOAR, ASPM, VM, Threat Modeling
 **Языки**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-**DevOps**: GitHub Actions, Docker, Azure DevOps
+**DevOps**: GitHub Actions, Docker, Azure DevOps, Gitlab CI
 
 ## 📊 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiomarotco&show_icons=true&theme=tokyonight)  
@@ -38,7 +38,7 @@
 
 ## 📫 Как связаться
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-✉ **Email**: _твой email_
+✉ sergiomarotco в любой соцсети.
 
 ---
 ⭐ Если мои проекты полезны — поставь звезду или сделай fork!
